@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Add Text, Images, And Overlays
     description                           : Each post can be custom. Add Your Own Text and Color Overlays
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : picture
     
   - title                                 : Split Full Images
     description                           : Split your images into rows, columns, or full 3x3 grid.
