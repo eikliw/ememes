@@ -36,23 +36,23 @@ features                                  :
 
   - title                                 : Add Text, Images, And Overlays
     description                           : Each post can be custom. Add Your Own Text and Color Overlays
-    fontawesome_icon_name                 : fa-picture-o
+    fontawesome_icon_name                 : images
     
   - title                                 : Split Full Images
     description                           : Split your images into rows, columns, or full 3x3 grid.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : th-large
 
   - title                                 : Drag And Drop to Reorder
     description                           : Easily reorder your grid in a flash
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : hand-rock
 
   - title                                 : Built In Templates
     description                           : No thinking neccessary, use one of our templates to create a grid instantly.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : lightbulb
 
   - title                                 : Share on Instagram
     description                           : Share your new creation easily on Instagram with images numbered to make it simple.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : instagram
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
