@@ -40,15 +40,15 @@ features                                  :
     
   - title                                 : Select Your Image
     description                           : Choose from our candidate photos or use your own.
-    fontawesome_icon_name                 : th-large
+    fontawesome_icon_name                 : portrait
 
   - title                                 : Add Text and Make It Yours
-    description                           : Your Meme Is Made Instantly
-    fontawesome_icon_name                 : text-size
+    description                           : Share your election meme with friends and family!
+    fontawesome_icon_name                 : font
 
-  - title                                 : Share Your Creation
-    description                           : Send to friends or share on social media.
-    fontawesome_icon_name                 : share-square
+  - title                                 : #Share Your Creation
+    description                           : #Send to friends or share on social media.
+    fontawesome_icon_name                 : #share-square
 
   - title                                 : #Share on Instagram
     description                           : #Share your new creation easily on Instagram with images numbered to make it simple.
