@@ -34,25 +34,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Add Text, Images, And Overlays
-    description                           : Each post can be custom. Add Your Own Text and Color Overlays
-    fontawesome_icon_name                 : images
+  - title                                 : New for 2020!
+    description                           : Updated with current presidential candidates.
+    fontawesome_icon_name                 : flag-usa
     
-  - title                                 : Split Full Images
-    description                           : Split your images into rows, columns, or full 3x3 grid.
+  - title                                 : Select Your Image
+    description                           : Choose from our candidate photos or use your own.
     fontawesome_icon_name                 : th-large
 
-  - title                                 : Drag And Drop to Reorder
-    description                           : Easily reorder your grid in a flash
-    fontawesome_icon_name                 : hand-rock
+  - title                                 : Add Text and Make It Yours
+    description                           : Your Meme Is Made Instantly
+    fontawesome_icon_name                 : text-size
 
-  - title                                 : Built In Templates
-    description                           : No thinking neccessary, use one of our templates to create a grid instantly.
-    fontawesome_icon_name                 : lightbulb
+  - title                                 : Share Your Creation
+    description                           : Send to friends or share on social media.
+    fontawesome_icon_name                 : share-square
 
-  - title                                 : Share on Instagram
-    description                           : Share your new creation easily on Instagram with images numbered to make it simple.
-    fontawesome_icon_name                 : instagram
+  - title                                 : #Share on Instagram
+    description                           : #Share your new creation easily on Instagram with images numbered to make it simple.
+    fontawesome_icon_name                 : #instagram
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -65,7 +65,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/samuel-branch-ZPVisr0s_hQ-unsplash.jpg                    # Replace with alternative image path or image URL.
+cover_image                               : assets/americanflag.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
@@ -73,7 +73,7 @@ device_color                              : white                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#117AEB"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -82,7 +82,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#117AEB"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
